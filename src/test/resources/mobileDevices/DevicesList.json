@@ -1,0 +1,31 @@
+{
+  "URL": "techfocus.com",
+  "USERID": "chirra",
+  "PASSWOED": "reddy",
+  "MobilesDevicesInfo": {
+    "Android": [
+      {
+        "DeviceName": "Samusng_A50",
+        "Version": "10",
+        "BundileId": "ABC1234"
+      },
+      {
+        "DeviceName": "Samusng_Gelaxy",
+        "Version": "10",
+        "BundileId": "XYZ123"
+      }
+    ],
+    "IOS": [
+      {
+        "DeviceName": "Iphone11",
+        "Version": "11",
+        "BundileId": "LMN789"
+      },
+      {
+        "DeviceName": "Iphone12",
+        "Version": "12",
+        "BundileId": "DEF123"
+      }
+    ]
+  }
+}
