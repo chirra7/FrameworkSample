@@ -1,30 +1,33 @@
 {
-  "URL": "techfocus.com",
-  "USERID": "chirra",
-  "PASSWOED": "reddy",
+  "PefectoUrl": "techfocus.com",
+  "UserId": "chirra",
+  "Password": "reddy",
+  "ApplicationPackageName": "com.techfocus",
   "MobilesDevicesInfo": {
     "Android": [
       {
         "DeviceName": "Samusng_A50",
-        "Version": "10",
-        "BundileId": "ABC1234"
-      },
-      {
-        "DeviceName": "Samusng_Gelaxy",
-        "Version": "10",
-        "BundileId": "XYZ123"
+        "OSVersion": "10",
+        "BundileId": "ABC1234",
+        "Manufacturer": "SAMSUNG",
+        "Model": "GALEXY",
+        "Location": "US",
+        "Resolution": "1024 X 1024",
+        "Network": "ATT",
+        "BundleId": "ABC123"
       }
     ],
     "IOS": [
       {
-        "DeviceName": "Iphone11",
-        "Version": "11",
-        "BundileId": "LMN789"
-      },
-      {
-        "DeviceName": "Iphone12",
-        "Version": "12",
-        "BundileId": "DEF123"
+        "DeviceName": "Apple12",
+        "OSVersion": "12",
+        "BundileId": "ABC1234",
+        "Manufacturer": "Apple",
+        "Model": "GALEXY",
+        "Location": "US",
+        "Resolution": "1024 X 1024",
+        "Network": "ATT",
+        "BundleId": "XYZ123"
       }
     ]
   }

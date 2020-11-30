@@ -50,8 +50,8 @@ public class DevicesDataLoadAndRetrieveJSONWork {
         JSONArray androidOSDevicesList = (JSONArray) osTypes.get("Android");
         JSONArray iosOSDevicesList = (JSONArray) osTypes.get("IOS");
 
-        System.out.println("androidOSDevicesList : " + androidOSDevicesList);
-        System.out.println("iosOSDevicesList : " + iosOSDevicesList);
+        //System.out.println("androidOSDevicesList : " + androidOSDevicesList);
+        //System.out.println("iosOSDevicesList : " + iosOSDevicesList);
 
         String deviceName = "";
         String version = "";
@@ -92,7 +92,7 @@ public class DevicesDataLoadAndRetrieveJSONWork {
         }
         devicesInfo.put("" + DeviceCapabilities.IOS, mobileDeviceCapabilities_LLHM);
 
-        System.out.println("devicesInfo : " + devicesInfo);
+        //System.out.println("devicesInfo : " + devicesInfo);
 
         return devicesInfo;
 
